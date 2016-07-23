@@ -4011,17 +4011,7 @@ function(a, b) {
 		return null != c ? unescape(c[2]) : null
 	}
 	function getRequestUrl() {
-		var a;
-		if (preview) a = isNewPreviewLocation ? PREFIX_URL + "m/scene/preview/" + sceneId + ".data" : PREFIX_URL + "m/scene/preview/" + sceneId, branchid && (a += (/\?/.test(a) ? "&" : "?") + "user=" + branchid);
-		else if (mobileview) a = PREFIX_URL + "event/9100?p1=" + sceneId;
-		else if (window.scene && window.scene.id) if (window.isCheck) a = MAX_SERVER_HOST + "m/eqs/view/page/" + window.scene.id;
-		else {
-			var b = window.viewOverflow ? PREFIX_S2_URL : PREFIX_S6_URL;
-			a = b + "?c=scene&a=view&id=" + window.scene.id;
-			var c = GetQueryString("userKey");
-			null != c && c.toString().length > 1 && (a += (/\?/.test(a) ? "&" : "?") + "userKey=" + c)
-		} else a = PREFIX_S1_URL + "eqs/v-" + sceneId;
-		return window.viewOverflow || (a += (/\?/.test(a) ? "&" : "?") + "time=" + (new Date).getTime()), a
+		return "data/scene.json";
 	}
 	function GetQueryString(a) {
 		var b = new RegExp("(^|&)" + a + "=([^&]*)(&|$)"),
@@ -4090,8 +4080,10 @@ function(a, b) {
 	$.ajaxSetup({
 		cache: !0
 	});
-	var isNewPreviewLocation = /[http|https]:\/\/.*\/m\/scene\/preview\//.test(window.location.href);
-	url = /[http|https]:\/\/.*\/v-/.test(window.location.href) ? window.location.href.split("/v-")[1] : isNewPreviewLocation ? window.location.href.split("/m/scene/preview/")[1] : window.location.href.split("id=")[1], window.viewData && (url = scene.code);
+	//var isNewPreviewLocation = /[http|https]:\/\/.*\/m\/scene\/preview\//.test(window.location.href);
+	var isNewPreviewLocation = false;
+	//url = /[http|https]:\/\/.*\/v-/.test(window.location.href) ? window.location.href.split("/v-")[1] : isNewPreviewLocation ? window.location.href.split("/m/scene/preview/")[1] : window.location.href.split("id=")[1], window.viewData && (url = scene.code);
+	url = 's70122M8E2K879GJ';
 	var sceneId = url.split("#")[0].split("&")[0].split("?")[0];
 	isNewPreviewLocation && (sceneId = sceneId.substring(0, sceneId.indexOf(".html")));
 	var param = url.split(sceneId)[1];
@@ -4333,7 +4325,7 @@ function(a, b) {
 	function c() {
 
 	}
-	a.getScript("/view/js/d.js", function() {
+	a.getScript("view/js/d.js", function() {
 		function a() {
 			window.scene ? c() : b = setTimeout(a)
 		}
