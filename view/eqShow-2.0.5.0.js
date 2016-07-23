@@ -3862,15 +3862,6 @@ function(a, b) {
 			if (k == a.length && (isMobile || $("img").on("dragstart", function(a) {
 				a.preventDefault()
 			}), !preview)) {
-				var l = PREFIX_S1_URL + "index.php?c=scene&a=addpv&id=" + b.obj.id;
-				param && (l += "?1=1", l += /\?.*/.test(param) ? "&" + param.substring(1) : /\&.*/.test(param) ? param : "&" + param), l += (/\?/.test(l) ? "&" : "&") + "ad=" + ad, $.ajax({
-					type: "GET",
-					url: l,
-					xhrFields: {
-						withCredentials: !0
-					},
-					crossDomain: !0
-				})
 			}
 		}
 		f || addReportToLastPage(a, b)
