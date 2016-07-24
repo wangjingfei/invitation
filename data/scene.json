@@ -487,10 +487,10 @@
             "src": "pic\/654\/201601\/luxun-school-2.jpg",
             "id": 9386090,
             "imgStyle": {
-              "width": 342,
+              "width": 276,
               "height": 165,
               "marginTop": "0px",
-              "marginLeft": "-33.5px"
+              "marginLeft": "0px"
             },
             "anim": [
               {
@@ -528,13 +528,13 @@
           }
         },
         {
-          "content": "<span style=\"font-size: 14px; line-height: 14px;\">\u6d41\u5149\u6613\u901d,\u4e0d\u7ecf\u610f\u95f4,\u53c8\u9001\u8d70\u4e00\u4e2a\u5c5e\u4e8e\u6211\u4eec\u7684\u9752\u6625,\u53ef\u662f\u4e00\u5f20\u5f20\u7b11\u8138,\u4e00\u58f0\u58f0\u95ee\u5019,\u4e00\u4e2a\u4e2a\u62e5\u62b1,\u4e00\u6b21\u6b21\u63e1\u624b,\u4e00\u5207\u5c31\u53c8\u4eff\u4f5b\u56de\u5230\u4e86\u6628\u5929\u3002<\/span>",
+          "content": "<span style=\"font-size: 14px; line-height: 14px;\">流光易逝，不经意间，又送走一个属于我们的青春，可是一张张笑脸，一声声问候，一个个拥抱，一次次握手，一切又仿佛回到了昨天。<\/span>",
           "css": {
             "top": 324,
             "left": 36,
             "zIndex": 1,
             "width": 242,
-            "height": 110,
+            "height": 135,
             "lineHeight": "1.0",
             "backgroundColor": "rgba(43,43,43,0.62)",
             "opacity": 1,
