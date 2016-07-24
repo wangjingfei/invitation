@@ -648,6 +648,447 @@
           "css": [],
           "id": 2442753327,
           "num": 0,
+          "pageId": "10014",
+          "properties": {
+            "bgColor": null,
+            "imgSrc": "pic\/654\/201601\/56a1fa15c65d4_small.jpg",
+            "id": 25467357
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 3
+        },
+        {
+          "content": "",
+          "css": {
+            "top": 367.5,
+            "left": 31.1875,
+            "zIndex": 0,
+            "width": 279,
+            "height": 171,
+            "backgroundColor": "",
+            "opacity": 1,
+            "color": "#676767",
+            "borderWidth": 0,
+            "borderStyle": "solid",
+            "borderColor": "rgba(0,0,0,1)",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "lineHeight": 1,
+            "borderRadius": "0px",
+            "transform": "rotateZ(0deg)",
+            "borderRadiusPerc": 0,
+            "boxShadow": "rgba(0,0,0,0) 0 0 0",
+            "boxShadowDirection": 0,
+            "boxShadowSize": 0,
+            "borderBottomRightRadius": "0px",
+            "borderBottomLeftRadius": "0px",
+            "borderTopRightRadius": "0px",
+            "borderTopLeftRadius": "0px"
+          },
+          "id": 4599045725,
+          "num": 1,
+          "pageId": "10014",
+          "properties": {
+            "width": 279,
+            "height": 171,
+            "src": "pic\/654\/201601\/56a20240c28cb.png",
+            "id": 9386090,
+            "imgStyle": {
+              "width": 279,
+              "height": 171,
+              "marginTop": "0px",
+              "marginLeft": "0px"
+            },
+            "anim": [
+              {
+                "type": 0,
+                "direction": 0,
+                "duration": 4,
+                "delay": 1,
+                "countNum": 1,
+                "count": null
+              }
+            ]
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 4
+        },
+        {
+          "content": "",
+          "css": {
+            "top": 173,
+            "left": 25,
+            "zIndex": 1,
+            "width": 276,
+            "height": 165,
+            "backgroundColor": "",
+            "opacity": 1,
+            "color": "#676767",
+            "borderWidth": 6,
+            "borderStyle": "solid",
+            "borderColor": "rgba(255,255,255,1)",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "lineHeight": 1,
+            "borderRadius": "9px",
+            "transform": "rotateZ(0deg)",
+            "borderRadiusPerc": 11,
+            "boxShadow": "rgba(0,0,0,0) 0 0 0",
+            "boxShadowDirection": 0,
+            "boxShadowSize": 0,
+            "borderBottomRightRadius": "9px",
+            "borderBottomLeftRadius": "9px",
+            "borderTopRightRadius": "9px",
+            "borderTopLeftRadius": "9px"
+          },
+          "id": 438868390,
+          "num": 1,
+          "pageId": "10014",
+          "properties": {
+            "width": 276,
+            "height": 165,
+            "src": "pic\/654\/201601\/luxun-school-3.jpg",
+            "id": 16730,
+            "imgStyle": {
+              "width": 276,
+              "height": 165,
+              "marginTop": "0px",
+              "marginLeft": "0px"
+            },
+            "anim": [
+              {
+                "type": 20,
+                "direction": 0,
+                "duration": 2,
+                "delay": 1,
+                "countNum": 1,
+                "count": null
+              }
+            ]
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 4
+        },
+        {
+          "content": "<span style=\"font-size: 14px; line-height: 14px;\">\u5f53\u4e00\u904d\u904d\u7ffb\u7740\u53d1\u9ec4\u7684\u7167\u7247<\/span><div><span style=\"font-size: 14px; line-height: 14px;\">\u5374\u53d1\u73b0\u5df2\u7ecf\u662f\u6162\u6162\u53d1\u9709\u7684\u5370\u8bb0<\/span><\/div><div><span style=\"font-size: 14px; line-height: 14px;\">\u8fd8\u597d\u6211\u4eec\u4e00\u76f4\u5728\u4e00\u8d77<\/span><\/div><div><span style=\"font-size: 14px; line-height: 14px;\">\u662f\u7684,\u611f\u8c22\u5c81\u6708<\/span><\/div><div><span style=\"font-size: 14px; line-height: 14px;\">\u6211\u4eec,\u4e00\u76f4\u5728\u4e00\u8d77!<\/span><\/div>",
+          "css": {
+            "top": 20,
+            "left": 39,
+            "zIndex": 2,
+            "width": 242,
+            "height": 134,
+            "lineHeight": "1.0",
+            "backgroundColor": "rgba(43,43,43,0.62)",
+            "opacity": 1,
+            "color": "rgba(255,255,255,1)",
+            "borderWidth": 0,
+            "borderStyle": "solid",
+            "borderColor": "rgba(0,0,0,1)",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "borderRadius": "0px",
+            "transform": "rotateZ(0deg)",
+            "borderRadiusPerc": 0,
+            "boxShadow": "rgba(0,0,0,0) 0 0 0",
+            "boxShadowDirection": 0,
+            "boxShadowSize": 0,
+            "borderBottomRightRadius": "0px",
+            "borderBottomLeftRadius": "0px",
+            "borderTopRightRadius": "0px",
+            "borderTopLeftRadius": "0px"
+          },
+          "id": 3600528681,
+          "num": 1,
+          "pageId": "10014",
+          "properties": {
+            "width": 242,
+            "height": 86,
+            "anim": [
+              {
+                "type": 1,
+                "direction": 3,
+                "duration": 4,
+                "delay": 2,
+                "countNum": 1,
+                "count": null
+              }
+            ]
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": "2"
+        },
+        {
+          "content": "",
+          "css": {
+            "top": 10.911300690516,
+            "left": 235.91123965536,
+            "zIndex": 3,
+            "width": 44,
+            "height": 44,
+            "backgroundColor": "",
+            "opacity": 1,
+            "color": "#676767",
+            "borderWidth": 0,
+            "borderStyle": "solid",
+            "borderColor": "rgba(0,0,0,1)",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "lineHeight": 1,
+            "borderRadius": "0px",
+            "transform": "rotateZ(330deg)",
+            "borderRadiusPerc": 0,
+            "boxShadow": "NaNpx 0px 0px 0",
+            "boxShadowDirection": 0,
+            "boxShadowSize": 0,
+            "borderBottomRightRadius": "0px",
+            "borderBottomLeftRadius": "0px",
+            "borderTopRightRadius": "0px",
+            "borderTopLeftRadius": "0px"
+          },
+          "id": 3052324919,
+          "num": 1,
+          "pageId": 10014,
+          "properties": {
+            "width": 44,
+            "height": 44,
+            "src": "syspic\/img\/15916df7d2b5bfccb9cde8aabf5e8498.png",
+            "id": 606080,
+            "imgStyle": {
+              "width": 44,
+              "height": 44,
+              "marginTop": "0px",
+              "marginLeft": "0px"
+            },
+            "anim": [
+              {
+                "type": 1,
+                "direction": 2,
+                "duration": 3,
+                "delay": 3,
+                "countNum": 1,
+                "count": null
+              }
+            ]
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 4
+        }
+      ],
+      "scene": null
+    },
+    {
+      "id": 43517,
+      "sceneId": 8832947,
+      "num": 4,
+      "name": null,
+      "properties": null,
+      "elements": [
+        {
+          "content": null,
+          "css": [],
+          "id": 2442753327,
+          "num": 0,
+          "pageId": "10024",
+          "properties": {
+            "bgColor": null,
+            "imgSrc": "pic\/654\/201601\/56a1fa15c65d4_small.jpg",
+            "id": 25467357
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 3
+        },
+        {
+          "content": "",
+          "css": {
+            "top": 367.5,
+            "left": 31.1875,
+            "zIndex": 0,
+            "width": 279,
+            "height": 171,
+            "backgroundColor": "",
+            "opacity": 1,
+            "color": "#676767",
+            "borderWidth": 0,
+            "borderStyle": "solid",
+            "borderColor": "rgba(0,0,0,1)",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "lineHeight": 1,
+            "borderRadius": "0px",
+            "transform": "rotateZ(0deg)",
+            "borderRadiusPerc": 0,
+            "boxShadow": "rgba(0,0,0,0) 0 0 0",
+            "boxShadowDirection": 0,
+            "boxShadowSize": 0,
+            "borderBottomRightRadius": "0px",
+            "borderBottomLeftRadius": "0px",
+            "borderTopRightRadius": "0px",
+            "borderTopLeftRadius": "0px"
+          },
+          "id": 4599045725,
+          "num": 1,
+          "pageId": "10024",
+          "properties": {
+            "width": 279,
+            "height": 171,
+            "src": "pic\/654\/201601\/56a20240c28cb.png",
+            "id": 9386090,
+            "imgStyle": {
+              "width": 279,
+              "height": 171,
+              "marginTop": "0px",
+              "marginLeft": "0px"
+            },
+            "anim": [
+              {
+                "type": 0,
+                "direction": 0,
+                "duration": 4,
+                "delay": 1,
+                "countNum": 1,
+                "count": null
+              }
+            ]
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 4
+        },
+        {
+          "content": "",
+          "css": {
+            "top": 30,
+            "left": 25,
+            "zIndex": 1,
+            "width": 276,
+            "height": 380,
+            "backgroundColor": "",
+            "opacity": 1,
+            "color": "#676767",
+            "borderWidth": 6,
+            "borderStyle": "solid",
+            "borderColor": "rgba(255,255,255,1)",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "lineHeight": 1,
+            "borderRadius": "9px",
+            "transform": "rotateZ(0deg)",
+            "borderRadiusPerc": 11,
+            "boxShadow": "rgba(0,0,0,0) 0 0 0",
+            "boxShadowDirection": 0,
+            "boxShadowSize": 0,
+            "borderBottomRightRadius": "9px",
+            "borderBottomLeftRadius": "9px",
+            "borderTopRightRadius": "9px",
+            "borderTopLeftRadius": "9px"
+          },
+          "id": 438868390,
+          "num": 1,
+          "pageId": "10024",
+          "properties": {
+            "width": 276,
+            "height": 380,
+            "src": "pic\/654\/201601\/shaokao.jpg",
+            "id": 16730,
+            "imgStyle": {
+              "width": 276,
+              "height": 380,
+              "marginTop": "0px",
+              "marginLeft": "0px"
+            },
+            "anim": [
+              {
+                "type": 20,
+                "direction": 0,
+                "duration": 2,
+                "delay": 1,
+                "countNum": 1,
+                "count": null
+              }
+            ]
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 4
+        },
+        {
+          "content": "",
+          "css": {
+            "top": 10.911300690516,
+            "left": 235.91123965536,
+            "zIndex": 3,
+            "width": 44,
+            "height": 44,
+            "backgroundColor": "",
+            "opacity": 1,
+            "color": "#676767",
+            "borderWidth": 0,
+            "borderStyle": "solid",
+            "borderColor": "rgba(0,0,0,1)",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "lineHeight": 1,
+            "borderRadius": "0px",
+            "transform": "rotateZ(330deg)",
+            "borderRadiusPerc": 0,
+            "boxShadow": "NaNpx 0px 0px 0",
+            "boxShadowDirection": 0,
+            "boxShadowSize": 0,
+            "borderBottomRightRadius": "0px",
+            "borderBottomLeftRadius": "0px",
+            "borderTopRightRadius": "0px",
+            "borderTopLeftRadius": "0px"
+          },
+          "id": 3052324919,
+          "num": 1,
+          "pageId": 10024,
+          "properties": {
+            "width": 44,
+            "height": 44,
+            "src": "syspic\/img\/15916df7d2b5bfccb9cde8aabf5e8498.png",
+            "id": 606080,
+            "imgStyle": {
+              "width": 44,
+              "height": 44,
+              "marginTop": "0px",
+              "marginLeft": "0px"
+            },
+            "anim": [
+              {
+                "type": 1,
+                "direction": 2,
+                "duration": 3,
+                "delay": 3,
+                "countNum": 1,
+                "count": null
+              }
+            ]
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 4
+        }
+      ],
+      "scene": null
+    },
+    {
+      "id": 43517,
+      "sceneId": 8832947,
+      "num": 4,
+      "name": null,
+      "properties": null,
+      "elements": [
+        {
+          "content": null,
+          "css": [],
+          "id": 2442753327,
+          "num": 0,
           "pageId": "10004",
           "properties": {
             "bgColor": null,
@@ -718,11 +1159,11 @@
         {
           "content": "",
           "css": {
-            "top": 173,
+            "top": 30,
             "left": 25,
             "zIndex": 1,
             "width": 276,
-            "height": 165,
+            "height": 380,
             "backgroundColor": "",
             "opacity": 1,
             "color": "#676767",
@@ -748,14 +1189,14 @@
           "pageId": "10004",
           "properties": {
             "width": 276,
-            "height": 165,
-            "src": "pic\/654\/201601\/56a200950f424.jpg",
+            "height": 380,
+            "src": "pic\/654\/201601\/geren.jpg",
             "id": 16730,
             "imgStyle": {
-              "width": 343,
-              "height": 165,
+              "width": 276,
+              "height": 380,
               "marginTop": "0px",
-              "marginLeft": "-33px"
+              "marginLeft": "0px"
             },
             "anim": [
               {
@@ -771,55 +1212,6 @@
           "sceneId": 8832938,
           "title": null,
           "type": 4
-        },
-        {
-          "content": "<span style=\"font-size: 14px; line-height: 14px;\">\u5f53\u4e00\u904d\u904d\u7ffb\u7740\u53d1\u9ec4\u7684\u7167\u7247<\/span><div><span style=\"font-size: 14px; line-height: 14px;\">\u5374\u53d1\u73b0\u5df2\u7ecf\u662f\u6162\u6162\u53d1\u9709\u7684\u5370\u8bb0<\/span><\/div><div><span style=\"font-size: 14px; line-height: 14px;\">\u8fd8\u597d\u6211\u4eec\u4e00\u76f4\u5728\u4e00\u8d77<\/span><\/div><div><span style=\"font-size: 14px; line-height: 14px;\">\u662f\u7684,\u611f\u8c22\u5c81\u6708<\/span><\/div><div><span style=\"font-size: 14px; line-height: 14px;\">\u6211\u4eec,\u4e00\u76f4\u5728\u4e00\u8d77!<\/span><\/div>",
-          "css": {
-            "top": 20,
-            "left": 39,
-            "zIndex": 2,
-            "width": 242,
-            "height": 134,
-            "lineHeight": "1.0",
-            "backgroundColor": "rgba(43,43,43,0.62)",
-            "opacity": 1,
-            "color": "rgba(255,255,255,1)",
-            "borderWidth": 0,
-            "borderStyle": "solid",
-            "borderColor": "rgba(0,0,0,1)",
-            "paddingBottom": 0,
-            "paddingTop": 0,
-            "borderRadius": "0px",
-            "transform": "rotateZ(0deg)",
-            "borderRadiusPerc": 0,
-            "boxShadow": "rgba(0,0,0,0) 0 0 0",
-            "boxShadowDirection": 0,
-            "boxShadowSize": 0,
-            "borderBottomRightRadius": "0px",
-            "borderBottomLeftRadius": "0px",
-            "borderTopRightRadius": "0px",
-            "borderTopLeftRadius": "0px"
-          },
-          "id": 3600528681,
-          "num": 1,
-          "pageId": "10004",
-          "properties": {
-            "width": 242,
-            "height": 86,
-            "anim": [
-              {
-                "type": 1,
-                "direction": 3,
-                "duration": 4,
-                "delay": 2,
-                "countNum": 1,
-                "count": null
-              }
-            ]
-          },
-          "sceneId": 8832938,
-          "title": null,
-          "type": "2"
         },
         {
           "content": "",
@@ -999,13 +1391,13 @@
           "properties": {
             "width": 276,
             "height": 165,
-            "src": "pic\/654\/201601\/56a2009540d99.jpg",
+            "src": "pic\/654\/201601\/changge-1.jpg",
             "id": 16731,
             "imgStyle": {
-              "width": 343,
+              "width": 276,
               "height": 165,
               "marginTop": "0px",
-              "marginLeft": "-33px"
+              "marginLeft": "0px"
             },
             "anim": [
               {
@@ -1023,45 +1415,53 @@
           "type": 4
         },
         {
-          "content": "<span style=\"font-size: 14px; line-height: 14px;\">\u4eb2\u7231\u7684\u540c\u5b66\u4eec:<\/span><div><span style=\"font-size: 14px; line-height: 14px;\">\u540c\u7a97\u4e09\u8f7d,\u6e29\u99a8\u5165\u6628,\u9080\u8bf7\u4f60,\u4e00\u8d77\u56de\u53bb,\u542c\u542c\u4e45\u8fdd\u7684\u58f0\u97f3,\u770b\u770b\u4e45\u8fdd\u7684\u9762\u5b54,\u8bf4\u8bf4\u79bb\u522b\u7684\u601d\u7eea......<\/span><\/div>",
+          "content": "",
           "css": {
-            "top": 295,
-            "left": 36,
-            "zIndex": 2,
-            "width": 242,
-            "height": 139,
-            "lineHeight": "1.0",
-            "backgroundColor": "rgba(43,43,43,0.62)",
+            "top": 300.5,
+            "left": 26,
+            "zIndex": 1,
+            "width": 276,
+            "height": 165,
+            "backgroundColor": "",
             "opacity": 1,
-            "color": "rgba(255,255,255,1)",
-            "borderWidth": 0,
+            "color": "#676767",
+            "borderWidth": 6,
             "borderStyle": "solid",
-            "borderColor": "rgba(0,0,0,1)",
+            "borderColor": "rgba(255,255,255,1)",
             "paddingBottom": 0,
             "paddingTop": 0,
-            "borderRadius": "0px",
+            "lineHeight": 1,
+            "borderRadius": "9px",
             "transform": "rotateZ(0deg)",
-            "borderRadiusPerc": 0,
+            "borderRadiusPerc": 11,
             "boxShadow": "rgba(0,0,0,0) 0 0 0",
             "boxShadowDirection": 0,
             "boxShadowSize": 0,
-            "borderBottomRightRadius": "0px",
-            "borderBottomLeftRadius": "0px",
-            "borderTopRightRadius": "0px",
-            "borderTopLeftRadius": "0px"
+            "borderBottomRightRadius": "9px",
+            "borderBottomLeftRadius": "9px",
+            "borderTopRightRadius": "9px",
+            "borderTopLeftRadius": "9px"
           },
-          "id": 7090049163,
+          "id": 1520637465,
           "num": 1,
           "pageId": "10005",
           "properties": {
-            "width": 242,
-            "height": 139,
+            "width": 276,
+            "height": 165,
+            "src": "pic\/654\/201601\/changge-2.jpg",
+            "id": 16731,
+            "imgStyle": {
+              "width": 276,
+              "height": 165,
+              "marginTop": "0px",
+              "marginLeft": "0px"
+            },
             "anim": [
               {
-                "type": 1,
-                "direction": 3,
-                "duration": 4,
-                "delay": 2,
+                "type": 20,
+                "direction": 0,
+                "duration": 2,
+                "delay": 1,
                 "countNum": 1,
                 "count": null
               }
@@ -1069,7 +1469,7 @@
           },
           "sceneId": 8832938,
           "title": null,
-          "type": "2"
+          "type": 4
         },
         {
           "content": "",
