@@ -3336,7 +3336,7 @@
           "sceneId": 8832938,
           "type": "4",
           "css": {
-            "height": 80,
+            "height": 130,
             "zIndex": 7,
             "width": 55,
             "left": "52px",
@@ -3371,7 +3371,7 @@
             "height": 80,
             "imgStyle": {
               "width": 126,
-              "height": 80,
+              "height": 130,
               "marginTop": "0px",
               "marginLeft": "-35.5px"
             },
@@ -3384,10 +3384,10 @@
           "pageId": 10006,
           "sceneId": 8832938,
           "type": "2",
-          "content": "<font size=\"2\" style=\"color: rgb(255, 255, 255);\">联系人：骆春峰<\/font><div><font size=\"2\" style=\"color: rgb(255, 255, 255);\">手 &nbsp; 机：186-5753-2397<\/font><\/div><div><font size=\"2\" style=\"color: rgb(255, 255, 255);\">微信号：叶落无痕<\/font><\/div>",
+          "content": "<font size=\"2\" style=\"color: rgb(255, 255, 255);\">联系人：骆春峰<\/font><div><font size=\"2\" style=\"color: rgb(255, 255, 255);\">手 &nbsp; 机：186-5753-2397<\/font><\/div><div><font size=\"2\" style=\"color: rgb(255, 255, 255);\">微信号：叶落无痕<\/font><\/div><div><font size=\"2\" style=\"color: rgb(255, 255, 255);\">经费筹集支付宝：</br>153-0575-0092（邵成钢）<\/font><\/div>",
           "css": {
             "zIndex": 8,
-            "height": "116",
+            "height": "136",
             "width": "215",
             "left": 90,
             "top": 320,
