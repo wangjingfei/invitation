@@ -9,7 +9,7 @@
     "type": 102,
     "pageMode": 0,
     "image": {
-      "imgSrc": "pic/654/201601/56a1ec1816e36.jpg",
+      "imgSrc": "pic/654/201601/cover.jpg",
       "lastPageId": 0,
       "hideEqAd": 0,
       "isAdvancedUser": 0,
@@ -22,7 +22,7 @@
     "timeout": "",
     "timeout_url": "",
     "accessCode": null,
-    "cover": "pic/654/201601/56a1ec1816e36.jpg",
+    "cover": "pic/654/201601/cover.jpg",
     "bgAudio": "{\"url\":\"music/congcongnanian.mp3\",\"type\":\"3\"}",
     "isTpl": 0,
     "isPromotion": 0,
@@ -311,13 +311,13 @@
           "properties": {
             "width": 276,
             "height": 165,
-            "src": "pic\/654\/201601\/56a1feb1baeb9.jpg",
+            "src": "pic\/654\/201601\/luxun-school-1.jpg",
             "id": 9386090,
             "imgStyle": {
-              "width": 318,
-              "height": 153,
+              "width": 276,
+              "height": 165,
               "marginTop": "0px",
-              "marginLeft": "-27px"
+              "marginLeft": "0px"
             },
             "anim": [
               {
