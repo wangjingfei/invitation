@@ -2421,7 +2421,7 @@
             "src": "pic\/654\/201601\/heying-1.jpg",
             "id": 16731,
             "imgStyle": {
-              "width": 276,
+              "width": 266,
               "height": 165,
               "marginTop": "0px",
               "marginLeft": "0px"
@@ -2472,6 +2472,251 @@
           "id": 3397455067,
           "num": 1,
           "pageId": "10025",
+          "properties": {
+            "width": 44,
+            "height": 44,
+            "src": "syspic\/img\/15916df7d2b5bfccb9cde8aabf5e8498.png",
+            "id": 606080,
+            "imgStyle": {
+              "width": 44,
+              "height": 44,
+              "marginTop": "0px",
+              "marginLeft": "0px"
+            },
+            "anim": [
+              {
+                "type": 1,
+                "direction": 2,
+                "duration": 3,
+                "delay": 3,
+                "countNum": 1,
+                "count": null
+              }
+            ]
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 4
+        }
+      ],
+      "scene": null
+    },
+    {
+      "id": 43517,
+      "sceneId": 8832947,
+      "num": 4,
+      "name": null,
+      "properties": null,
+      "elements": [
+        {
+          "content": null,
+          "css": [],
+          "id": 2442753327,
+          "num": 0,
+          "pageId": "10014",
+          "properties": {
+            "bgColor": null,
+            "imgSrc": "pic\/654\/201601\/56a1fa15c65d4_small.jpg",
+            "id": 25467357
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 3
+        },
+        {
+          "content": "",
+          "css": {
+            "top": 367.5,
+            "left": 31.1875,
+            "zIndex": 0,
+            "width": 279,
+            "height": 171,
+            "backgroundColor": "",
+            "opacity": 1,
+            "color": "#676767",
+            "borderWidth": 0,
+            "borderStyle": "solid",
+            "borderColor": "rgba(0,0,0,1)",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "lineHeight": 1,
+            "borderRadius": "0px",
+            "transform": "rotateZ(0deg)",
+            "borderRadiusPerc": 0,
+            "boxShadow": "rgba(0,0,0,0) 0 0 0",
+            "boxShadowDirection": 0,
+            "boxShadowSize": 0,
+            "borderBottomRightRadius": "0px",
+            "borderBottomLeftRadius": "0px",
+            "borderTopRightRadius": "0px",
+            "borderTopLeftRadius": "0px"
+          },
+          "id": 4599045725,
+          "num": 1,
+          "pageId": "10014",
+          "properties": {
+            "width": 279,
+            "height": 171,
+            "src": "pic\/654\/201601\/56a20240c28cb.png",
+            "id": 9386090,
+            "imgStyle": {
+              "width": 279,
+              "height": 171,
+              "marginTop": "0px",
+              "marginLeft": "0px"
+            },
+            "anim": [
+              {
+                "type": 0,
+                "direction": 0,
+                "duration": 4,
+                "delay": 1,
+                "countNum": 1,
+                "count": null
+              }
+            ]
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 4
+        },
+        {
+          "content": "",
+          "css": {
+            "top": 173,
+            "left": 25,
+            "zIndex": 1,
+            "width": 276,
+            "height": 165,
+            "backgroundColor": "",
+            "opacity": 1,
+            "color": "#676767",
+            "borderWidth": 6,
+            "borderStyle": "solid",
+            "borderColor": "rgba(255,255,255,1)",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "lineHeight": 1,
+            "borderRadius": "9px",
+            "transform": "rotateZ(0deg)",
+            "borderRadiusPerc": 11,
+            "boxShadow": "rgba(0,0,0,0) 0 0 0",
+            "boxShadowDirection": 0,
+            "boxShadowSize": 0,
+            "borderBottomRightRadius": "9px",
+            "borderBottomLeftRadius": "9px",
+            "borderTopRightRadius": "9px",
+            "borderTopLeftRadius": "9px"
+          },
+          "id": 438868390,
+          "num": 1,
+          "pageId": "10014",
+          "properties": {
+            "width": 276,
+            "height": 165,
+            "src": "pic\/654\/201601\/final.jpg",
+            "id": 16730,
+            "imgStyle": {
+              "width": 276,
+              "height": 165,
+              "marginTop": "0px",
+              "marginLeft": "0px"
+            },
+            "anim": [
+              {
+                "type": 20,
+                "direction": 0,
+                "duration": 2,
+                "delay": 1,
+                "countNum": 1,
+                "count": null
+              }
+            ]
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 4
+        },
+        {
+          "content": "<span style=\"font-size: 14px; line-height: 14px;\">\u5f53\u4e00\u904d\u904d\u7ffb\u7740\u53d1\u9ec4\u7684\u7167\u7247<\/span><div><span style=\"font-size: 14px; line-height: 14px;\">\u5374\u53d1\u73b0\u5df2\u7ecf\u662f\u6162\u6162\u53d1\u9709\u7684\u5370\u8bb0<\/span><\/div><div><span style=\"font-size: 14px; line-height: 14px;\">\u8fd8\u597d\u6211\u4eec\u4e00\u76f4\u5728\u4e00\u8d77<\/span><\/div><div><span style=\"font-size: 14px; line-height: 14px;\">\u662f\u7684,\u611f\u8c22\u5c81\u6708<\/span><\/div><div><span style=\"font-size: 14px; line-height: 14px;\">\u6211\u4eec,\u4e00\u76f4\u5728\u4e00\u8d77!<\/span><\/div>",
+          "css": {
+            "top": 20,
+            "left": 39,
+            "zIndex": 2,
+            "width": 242,
+            "height": 134,
+            "lineHeight": "1.0",
+            "backgroundColor": "rgba(43,43,43,0.62)",
+            "opacity": 1,
+            "color": "rgba(255,255,255,1)",
+            "borderWidth": 0,
+            "borderStyle": "solid",
+            "borderColor": "rgba(0,0,0,1)",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "borderRadius": "0px",
+            "transform": "rotateZ(0deg)",
+            "borderRadiusPerc": 0,
+            "boxShadow": "rgba(0,0,0,0) 0 0 0",
+            "boxShadowDirection": 0,
+            "boxShadowSize": 0,
+            "borderBottomRightRadius": "0px",
+            "borderBottomLeftRadius": "0px",
+            "borderTopRightRadius": "0px",
+            "borderTopLeftRadius": "0px"
+          },
+          "id": 3600528681,
+          "num": 1,
+          "pageId": "10014",
+          "properties": {
+            "width": 242,
+            "height": 86,
+            "anim": [
+              {
+                "type": 1,
+                "direction": 3,
+                "duration": 4,
+                "delay": 2,
+                "countNum": 1,
+                "count": null
+              }
+            ]
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": "2"
+        },
+        {
+          "content": "",
+          "css": {
+            "top": 10.911300690516,
+            "left": 235.91123965536,
+            "zIndex": 3,
+            "width": 44,
+            "height": 44,
+            "backgroundColor": "",
+            "opacity": 1,
+            "color": "#676767",
+            "borderWidth": 0,
+            "borderStyle": "solid",
+            "borderColor": "rgba(0,0,0,1)",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "lineHeight": 1,
+            "borderRadius": "0px",
+            "transform": "rotateZ(330deg)",
+            "borderRadiusPerc": 0,
+            "boxShadow": "NaNpx 0px 0px 0",
+            "boxShadowDirection": 0,
+            "boxShadowSize": 0,
+            "borderBottomRightRadius": "0px",
+            "borderBottomLeftRadius": "0px",
+            "borderTopRightRadius": "0px",
+            "borderTopLeftRadius": "0px"
+          },
+          "id": 3052324919,
+          "num": 1,
+          "pageId": 10014,
           "properties": {
             "width": 44,
             "height": 44,
@@ -3250,7 +3495,7 @@
             "borderTopLeftRadius": "99px"
           },
           "properties": {
-            "title": "\u63d0\u4ea4",
+            "title": "立即报名",
             "anim": [
               {
                 "type": 0,
@@ -3268,7 +3513,7 @@
           "pageId": "10008",
           "sceneId": 8832938,
           "type": "2",
-          "content": "<div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); font-size: -webkit-xxx-large; font-weight: bold; line-height: 48px;\">\u540c\u5b66\u5728\u7b49\u4f60<\/span><\/div>",
+          "content": "<div style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); font-size: -webkit-xxx-large; font-weight: bold; line-height: 48px;\">同学在等你<\/span><\/div>",
           "css": {
             "height": "62",
             "zIndex": 1,
@@ -3298,6 +3543,63 @@
           "properties": []
         },
         {
+          "content": "",
+          "css": {
+            "top": 110,
+            "left": 25,
+            "zIndex": 0,
+            "width": 276,
+            "height": 243,
+            "backgroundColor": "",
+            "opacity": 1,
+            "color": "#676767",
+            "borderWidth": 0,
+            "borderStyle": "solid",
+            "borderColor": "rgba(0,0,0,1)",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "lineHeight": 1,
+            "borderRadius": "0px",
+            "transform": "rotateZ(0deg)",
+            "borderRadiusPerc": 0,
+            "boxShadow": "rgba(0,0,0,0) 0 0 0",
+            "boxShadowDirection": 0,
+            "boxShadowSize": 0,
+            "borderBottomRightRadius": "0px",
+            "borderBottomLeftRadius": "0px",
+            "borderTopRightRadius": "0px",
+            "borderTopLeftRadius": "0px"
+          },
+          "id": 3726795165,
+          "num": 1,
+          "pageId": "10008",
+          "properties": {
+            "width": 276,
+            "height": 243,
+            "src": "pic\/654\/201601\/heart.jpg",
+            "id": 9386090,
+            "imgStyle": {
+              "width": 276,
+              "height": 243,
+              "marginTop": "0px",
+              "marginLeft": "0px"
+            },
+            "anim": [
+              {
+                "type": 0,
+                "direction": 0,
+                "duration": 10,
+                "delay": 1,
+                "countNum": 1,
+                "count": null
+              }
+            ]
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 4
+        },
+        {
           "id": 2216746524,
           "pageId": "10008",
           "sceneId": 8832938,
@@ -3315,194 +3617,6 @@
             "duration": 1,
             "blurSize": 5
           }
-        },
-        {
-          "id": 1621001885,
-          "pageId": "10008",
-          "sceneId": 8832938,
-          "type": "504",
-          "title": "QQ",
-          "css": {
-            "borderRadius": "990px",
-            "borderStyle": "solid",
-            "height": "41",
-            "zIndex": 5,
-            "borderColor": "rgba(130,130,130,1)",
-            "paddingTop": 0,
-            "boxShadow": "rgba(0,0,0,0) 0 0 0",
-            "color": "#676767",
-            "backgroundColor": "",
-            "borderWidth": 1,
-            "width": "245",
-            "left": "44px",
-            "paddingBottom": 0,
-            "top": "314px",
-            "opacity": 1,
-            "lineHeight": 1,
-            "transform": "rotateZ(0deg)",
-            "borderRadiusPerc": 100,
-            "boxShadowDirection": 0,
-            "boxShadowSize": 0,
-            "borderBottomRightRadius": "990px",
-            "borderBottomLeftRadius": "990px",
-            "borderTopRightRadius": "990px",
-            "borderTopLeftRadius": "990px"
-          },
-          "properties": {
-            "placeholder": "QQ",
-            "anim": [
-              {
-                "type": 0,
-                "direction": 0,
-                "duration": 2,
-                "delay": 2.5,
-                "countNum": 1,
-                "count": null
-              }
-            ]
-          },
-          "content": null
-        },
-        {
-          "id": 7141159161,
-          "pageId": "10008",
-          "sceneId": 8832938,
-          "type": "503",
-          "title": "\u90ae\u7bb1",
-          "css": {
-            "borderRadius": "99px",
-            "borderStyle": "solid",
-            "height": "41",
-            "zIndex": 4,
-            "borderColor": "rgba(130,130,130,1)",
-            "paddingTop": 0,
-            "boxShadow": "rgba(0,0,0,0) 0 0 0",
-            "color": "#676767",
-            "backgroundColor": "",
-            "borderWidth": 1,
-            "width": "246",
-            "left": "45px",
-            "paddingBottom": 0,
-            "top": "248px",
-            "opacity": 1,
-            "lineHeight": 1,
-            "transform": "rotateZ(0deg)",
-            "borderRadiusPerc": 100,
-            "boxShadowDirection": 0,
-            "boxShadowSize": 0,
-            "borderBottomRightRadius": "99px",
-            "borderBottomLeftRadius": "99px",
-            "borderTopRightRadius": "99px",
-            "borderTopLeftRadius": "99px"
-          },
-          "properties": {
-            "placeholder": "\u90ae\u7bb1",
-            "anim": [
-              {
-                "type": 0,
-                "direction": 0,
-                "duration": 2,
-                "delay": 2,
-                "countNum": 1,
-                "count": null
-              }
-            ]
-          },
-          "content": null
-        },
-        {
-          "id": 4718453645,
-          "pageId": "10008",
-          "sceneId": 8832938,
-          "type": "502",
-          "title": "\u624b\u673a",
-          "css": {
-            "borderRadius": "99px",
-            "borderStyle": "solid",
-            "height": "40",
-            "zIndex": 3,
-            "borderColor": "rgba(130,130,130,1)",
-            "paddingTop": 0,
-            "boxShadow": "rgba(0,0,0,0) 0 0 0",
-            "color": "#676767",
-            "backgroundColor": "",
-            "borderWidth": 1,
-            "width": "248",
-            "left": "42px",
-            "paddingBottom": 0,
-            "top": "183px",
-            "opacity": 1,
-            "lineHeight": 1,
-            "transform": "rotateZ(0deg)",
-            "borderRadiusPerc": 100,
-            "boxShadowDirection": 0,
-            "boxShadowSize": 0,
-            "borderBottomRightRadius": "99px",
-            "borderBottomLeftRadius": "99px",
-            "borderTopRightRadius": "99px",
-            "borderTopLeftRadius": "99px"
-          },
-          "properties": {
-            "placeholder": "\u624b\u673a",
-            "anim": [
-              {
-                "type": 0,
-                "direction": 0,
-                "duration": 2,
-                "delay": 1.5,
-                "countNum": 1,
-                "count": null
-              }
-            ]
-          },
-          "content": null
-        },
-        {
-          "id": 3323868020,
-          "pageId": "10008",
-          "sceneId": 8832938,
-          "type": "501",
-          "title": "\u59d3\u540d",
-          "css": {
-            "borderRadius": "999px",
-            "borderStyle": "solid",
-            "height": "42",
-            "zIndex": 2,
-            "borderColor": "rgba(130,130,130,1)",
-            "paddingTop": 0,
-            "boxShadow": "rgba(0,0,0,0) 0 0 0",
-            "color": "#676767",
-            "backgroundColor": "",
-            "borderWidth": 1,
-            "width": "244",
-            "left": "43px",
-            "paddingBottom": 0,
-            "top": "116px",
-            "opacity": 1,
-            "lineHeight": 1,
-            "transform": "rotateZ(0deg)",
-            "borderRadiusPerc": 100,
-            "boxShadowDirection": 0,
-            "boxShadowSize": 0,
-            "borderBottomRightRadius": "999px",
-            "borderBottomLeftRadius": "999px",
-            "borderTopRightRadius": "999px",
-            "borderTopLeftRadius": "999px"
-          },
-          "properties": {
-            "placeholder": "\u59d3\u540d",
-            "anim": [
-              {
-                "type": 0,
-                "direction": 0,
-                "duration": 2,
-                "delay": 1,
-                "countNum": 1,
-                "count": null
-              }
-            ]
-          },
-          "content": null
         }
       ],
       "scene": null

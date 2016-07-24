@@ -1965,8 +1965,9 @@ function(a) {
 				};
 			i.def.sceneId;
 			$(a).bind("click", function() {
-				var b, c = $(a).parents(".edit_wrapper").attr("data-scene-id");
-				b = c ? $(a).parents(".nr").find('.edit_wrapper[data-scene-id="' + c + '"]') : $(a).parents(".nr"), d(this, c, b)
+                window.location.href = "http://wj.qq.com/s/673168/864c";
+				//var b, c = $(a).parents(".edit_wrapper").attr("data-scene-id");
+				//b = c ? $(a).parents(".nr").find('.edit_wrapper[data-scene-id="' + c + '"]') : $(a).parents(".nr"), d(this, c, b)
 			})
 		}
 	}), i.bindAfterRenderEvent("7", function(a, b) {
