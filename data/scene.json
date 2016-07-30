@@ -661,7 +661,7 @@
         {
           "content": "",
           "css": {
-            "top": 367.5,
+            "top": 340,
             "left": 31.1875,
             "zIndex": 0,
             "width": 279,
@@ -893,6 +893,202 @@
           "css": [],
           "id": 2442753327,
           "num": 0,
+          "pageId": "10034",
+          "properties": {
+            "bgColor": null,
+            "imgSrc": "pic\/654\/201601\/bg-6.jpg",
+            "id": 25467357
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 3
+        },
+        {
+          "content": "",
+          "css": {
+            "top": 367.5,
+            "left": 31.1875,
+            "zIndex": 0,
+            "width": 279,
+            "height": 171,
+            "backgroundColor": "",
+            "opacity": 1,
+            "color": "#676767",
+            "borderWidth": 0,
+            "borderStyle": "solid",
+            "borderColor": "rgba(0,0,0,1)",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "lineHeight": 1,
+            "borderRadius": "0px",
+            "transform": "rotateZ(0deg)",
+            "borderRadiusPerc": 0,
+            "boxShadow": "rgba(0,0,0,0) 0 0 0",
+            "boxShadowDirection": 0,
+            "boxShadowSize": 0,
+            "borderBottomRightRadius": "0px",
+            "borderBottomLeftRadius": "0px",
+            "borderTopRightRadius": "0px",
+            "borderTopLeftRadius": "0px"
+          },
+          "id": 4599045725,
+          "num": 1,
+          "pageId": "10034",
+          "properties": {
+            "width": 279,
+            "height": 171,
+            "src": "pic\/654\/201601\/img-6-1.png",
+            "id": 9386090,
+            "imgStyle": {
+              "width": 279,
+              "height": 171,
+              "marginTop": "0px",
+              "marginLeft": "0px"
+            },
+            "anim": [
+              {
+                "type": 0,
+                "direction": 0,
+                "duration": 4,
+                "delay": 1,
+                "countNum": 1,
+                "count": null
+              }
+            ]
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 4
+        },
+        {
+          "content": "",
+          "css": {
+            "top": 30,
+            "left": 25,
+            "zIndex": 1,
+            "width": 276,
+            "height": 360,
+            "backgroundColor": "",
+            "opacity": 1,
+            "color": "#676767",
+            "borderWidth": 6,
+            "borderStyle": "solid",
+            "borderColor": "rgba(255,255,255,1)",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "lineHeight": 1,
+            "borderRadius": "9px",
+            "transform": "rotateZ(0deg)",
+            "borderRadiusPerc": 11,
+            "boxShadow": "rgba(0,0,0,0) 0 0 0",
+            "boxShadowDirection": 0,
+            "boxShadowSize": 0,
+            "borderBottomRightRadius": "9px",
+            "borderBottomLeftRadius": "9px",
+            "borderTopRightRadius": "9px",
+            "borderTopLeftRadius": "9px"
+          },
+          "id": 438868390,
+          "num": 1,
+          "pageId": "10034",
+          "properties": {
+            "width": 276,
+            "height": 380,
+            "src": "pic\/654\/201601\/geren.jpg",
+            "id": 16730,
+            "imgStyle": {
+              "width": 276,
+              "height": 380,
+              "marginTop": "0px",
+              "marginLeft": "0px"
+            },
+            "anim": [
+              {
+                "type": 20,
+                "direction": 0,
+                "duration": 2,
+                "delay": 1,
+                "countNum": 1,
+                "count": null
+              }
+            ]
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 4
+        },
+        {
+          "content": "",
+          "css": {
+            "top": 10.911300690516,
+            "left": 235.91123965536,
+            "zIndex": 3,
+            "width": 44,
+            "height": 44,
+            "backgroundColor": "",
+            "opacity": 1,
+            "color": "#676767",
+            "borderWidth": 0,
+            "borderStyle": "solid",
+            "borderColor": "rgba(0,0,0,1)",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "lineHeight": 1,
+            "borderRadius": "0px",
+            "transform": "rotateZ(330deg)",
+            "borderRadiusPerc": 0,
+            "boxShadow": "NaNpx 0px 0px 0",
+            "boxShadowDirection": 0,
+            "boxShadowSize": 0,
+            "borderBottomRightRadius": "0px",
+            "borderBottomLeftRadius": "0px",
+            "borderTopRightRadius": "0px",
+            "borderTopLeftRadius": "0px"
+          },
+          "id": 3052324919,
+          "num": 1,
+          "pageId": 10034,
+          "properties": {
+            "width": 44,
+            "height": 44,
+            "src": "syspic\/img\/15916df7d2b5bfccb9cde8aabf5e8498.png",
+            "id": 606080,
+            "imgStyle": {
+              "width": 44,
+              "height": 44,
+              "marginTop": "0px",
+              "marginLeft": "0px"
+            },
+            "anim": [
+              {
+                "type": 1,
+                "direction": 2,
+                "duration": 3,
+                "delay": 3,
+                "countNum": 1,
+                "count": null
+              }
+            ]
+          },
+          "sceneId": 8832938,
+          "title": null,
+          "type": 4
+        }
+      ],
+      "scene": null
+    },
+    {
+      "id": 43517,
+      "sceneId": 8832947,
+      "num": 4,
+      "name": null,
+      "properties": null,
+      "elements": [
+        {
+          "content": null,
+          "css": [],
+          "id": 2442753327,
+          "num": 0,
           "pageId": "10024",
           "properties": {
             "bgColor": null,
@@ -1078,202 +1274,6 @@
       "scene": null
     },
     {
-      "id": 43517,
-      "sceneId": 8832947,
-      "num": 4,
-      "name": null,
-      "properties": null,
-      "elements": [
-        {
-          "content": null,
-          "css": [],
-          "id": 2442753327,
-          "num": 0,
-          "pageId": "10034",
-          "properties": {
-            "bgColor": null,
-            "imgSrc": "pic\/654\/201601\/bg-6.jpg",
-            "id": 25467357
-          },
-          "sceneId": 8832938,
-          "title": null,
-          "type": 3
-        },
-        {
-          "content": "",
-          "css": {
-            "top": 367.5,
-            "left": 31.1875,
-            "zIndex": 0,
-            "width": 279,
-            "height": 171,
-            "backgroundColor": "",
-            "opacity": 1,
-            "color": "#676767",
-            "borderWidth": 0,
-            "borderStyle": "solid",
-            "borderColor": "rgba(0,0,0,1)",
-            "paddingBottom": 0,
-            "paddingTop": 0,
-            "lineHeight": 1,
-            "borderRadius": "0px",
-            "transform": "rotateZ(0deg)",
-            "borderRadiusPerc": 0,
-            "boxShadow": "rgba(0,0,0,0) 0 0 0",
-            "boxShadowDirection": 0,
-            "boxShadowSize": 0,
-            "borderBottomRightRadius": "0px",
-            "borderBottomLeftRadius": "0px",
-            "borderTopRightRadius": "0px",
-            "borderTopLeftRadius": "0px"
-          },
-          "id": 4599045725,
-          "num": 1,
-          "pageId": "10034",
-          "properties": {
-            "width": 279,
-            "height": 171,
-            "src": "pic\/654\/201601\/img-6-1.png",
-            "id": 9386090,
-            "imgStyle": {
-              "width": 279,
-              "height": 171,
-              "marginTop": "0px",
-              "marginLeft": "0px"
-            },
-            "anim": [
-              {
-                "type": 0,
-                "direction": 0,
-                "duration": 4,
-                "delay": 1,
-                "countNum": 1,
-                "count": null
-              }
-            ]
-          },
-          "sceneId": 8832938,
-          "title": null,
-          "type": 4
-        },
-        {
-          "content": "",
-          "css": {
-            "top": 30,
-            "left": 25,
-            "zIndex": 1,
-            "width": 276,
-            "height": 380,
-            "backgroundColor": "",
-            "opacity": 1,
-            "color": "#676767",
-            "borderWidth": 6,
-            "borderStyle": "solid",
-            "borderColor": "rgba(255,255,255,1)",
-            "paddingBottom": 0,
-            "paddingTop": 0,
-            "lineHeight": 1,
-            "borderRadius": "9px",
-            "transform": "rotateZ(0deg)",
-            "borderRadiusPerc": 11,
-            "boxShadow": "rgba(0,0,0,0) 0 0 0",
-            "boxShadowDirection": 0,
-            "boxShadowSize": 0,
-            "borderBottomRightRadius": "9px",
-            "borderBottomLeftRadius": "9px",
-            "borderTopRightRadius": "9px",
-            "borderTopLeftRadius": "9px"
-          },
-          "id": 438868390,
-          "num": 1,
-          "pageId": "10034",
-          "properties": {
-            "width": 276,
-            "height": 380,
-            "src": "pic\/654\/201601\/geren.jpg",
-            "id": 16730,
-            "imgStyle": {
-              "width": 276,
-              "height": 380,
-              "marginTop": "0px",
-              "marginLeft": "0px"
-            },
-            "anim": [
-              {
-                "type": 20,
-                "direction": 0,
-                "duration": 2,
-                "delay": 1,
-                "countNum": 1,
-                "count": null
-              }
-            ]
-          },
-          "sceneId": 8832938,
-          "title": null,
-          "type": 4
-        },
-        {
-          "content": "",
-          "css": {
-            "top": 10.911300690516,
-            "left": 235.91123965536,
-            "zIndex": 3,
-            "width": 44,
-            "height": 44,
-            "backgroundColor": "",
-            "opacity": 1,
-            "color": "#676767",
-            "borderWidth": 0,
-            "borderStyle": "solid",
-            "borderColor": "rgba(0,0,0,1)",
-            "paddingBottom": 0,
-            "paddingTop": 0,
-            "lineHeight": 1,
-            "borderRadius": "0px",
-            "transform": "rotateZ(330deg)",
-            "borderRadiusPerc": 0,
-            "boxShadow": "NaNpx 0px 0px 0",
-            "boxShadowDirection": 0,
-            "boxShadowSize": 0,
-            "borderBottomRightRadius": "0px",
-            "borderBottomLeftRadius": "0px",
-            "borderTopRightRadius": "0px",
-            "borderTopLeftRadius": "0px"
-          },
-          "id": 3052324919,
-          "num": 1,
-          "pageId": 10034,
-          "properties": {
-            "width": 44,
-            "height": 44,
-            "src": "syspic\/img\/15916df7d2b5bfccb9cde8aabf5e8498.png",
-            "id": 606080,
-            "imgStyle": {
-              "width": 44,
-              "height": 44,
-              "marginTop": "0px",
-              "marginLeft": "0px"
-            },
-            "anim": [
-              {
-                "type": 1,
-                "direction": 2,
-                "duration": 3,
-                "delay": 3,
-                "countNum": 1,
-                "count": null
-              }
-            ]
-          },
-          "sceneId": 8832938,
-          "title": null,
-          "type": 4
-        }
-      ],
-      "scene": null
-    },
-    {
       "id": 43518,
       "sceneId": 8832947,
       "num": 5,
@@ -1304,7 +1304,7 @@
           "content": "",
           "css": {
             "top": -44,
-            "left": 53,
+            "left": 35,
             "zIndex": 0,
             "width": 251,
             "height": 154,
@@ -1562,7 +1562,7 @@
           "content": "",
           "css": {
             "top": -44,
-            "left": 53,
+            "left": 35,
             "zIndex": 0,
             "width": 251,
             "height": 154,
@@ -1871,7 +1871,7 @@
         {
           "content": "",
           "css": {
-            "top": 30,
+            "top": 15,
             "left": 25,
             "zIndex": 1,
             "width": 276,
@@ -2638,7 +2638,7 @@
           "type": 4
         },
         {
-          "content": "<span style=\"font-size: 14px; line-height: 14px;\">\u5f53\u4e00\u904d\u904d\u7ffb\u7740\u53d1\u9ec4\u7684\u7167\u7247<\/span><div><span style=\"font-size: 14px; line-height: 14px;\">\u5374\u53d1\u73b0\u5df2\u7ecf\u662f\u6162\u6162\u53d1\u9709\u7684\u5370\u8bb0<\/span><\/div><div><span style=\"font-size: 14px; line-height: 14px;\">\u8fd8\u597d\u6211\u4eec\u4e00\u76f4\u5728\u4e00\u8d77<\/span><\/div><div><span style=\"font-size: 14px; line-height: 14px;\">\u662f\u7684,\u611f\u8c22\u5c81\u6708<\/span><\/div><div><span style=\"font-size: 14px; line-height: 14px;\">\u6211\u4eec,\u4e00\u76f4\u5728\u4e00\u8d77!<\/span><\/div>",
+          "content": "<span style=\"font-size: 14px; line-height: 14px;\">朝夕三载，温馨如昨<\/span><div><span style=\"font-size: 14px; line-height: 14px;\">依然常驻心头<\/span><\/div><div><span style=\"font-size: 14px; line-height: 14px;\">悲欢岁月，依稀如梦<\/span><\/div><div><span style=\"font-size: 14px; line-height: 14px;\">但愿记得你我<\/span><\/div><div><span style=\"font-size: 14px; line-height: 14px;\">一别十载，当年同窗，今各西东<\/span><\/div>",
           "css": {
             "top": 20,
             "left": 39,
@@ -3384,7 +3384,7 @@
           "pageId": 10006,
           "sceneId": 8832938,
           "type": "2",
-          "content": "<font size=\"2\" style=\"color: rgb(255, 255, 255);\">联系人：骆春峰<\/font><div><font size=\"2\" style=\"color: rgb(255, 255, 255);\">手 &nbsp; 机：186-5753-2397<\/font><\/div><div><font size=\"2\" style=\"color: rgb(255, 255, 255);\">微信号：叶落无痕<\/font><\/div><div><font size=\"2\" style=\"color: rgb(255, 255, 255);\">经费筹集支付宝：</br>153-0575-0092（邵成钢）<\/font><\/div>",
+          "content": "<font size=\"2\" style=\"color: rgb(255, 255, 255);\">联系人：骆春锋<\/font><div><font size=\"2\" style=\"color: rgb(255, 255, 255);\">手 &nbsp; 机：186-5753-2397<\/font><\/div><div><font size=\"2\" style=\"color: rgb(255, 255, 255);\">微信号：叶落无痕<\/font><\/div><div><font size=\"2\" style=\"color: rgb(255, 255, 255);\">经费筹集支付宝：</br>153-0575-0092（邵成刚）<\/font><\/div>",
           "css": {
             "zIndex": 8,
             "height": "136",
