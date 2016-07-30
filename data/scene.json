@@ -3626,7 +3626,7 @@
             "id": 25467357
           },
           "effect": {
-            "type": "scaleUp",
+            "type": "scaleDown",
             "duration": 1,
             "blurSize": 5
           }
